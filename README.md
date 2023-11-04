@@ -5,7 +5,7 @@
 ## Visão Geral
 Este é um simples mini jogo de dados onde o jogador clica para jogar e aguarda o resultado. O objetivo é fornecer uma experiência divertida e interativa para os jogadores.
 
-🎲 **Jogar o Jogo** ➡️ [Clique aqui para jogar](inserir_link_para_o_jogo)
+🎲 **Jogar o Jogo** ➡️ [Clique aqui para jogar](https://jogar-dados.vercel.app)
 
 ## Como Jogar
 1. Clique no botão "Jogar" para iniciar o jogo.
