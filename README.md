@@ -12,8 +12,8 @@ Este é um simples mini jogo de dados onde o jogador clica para jogar e aguarda 
 2. Aguarde o lançamento do dado e veja o resultado.
 
 ## Imagem do Jogo
-![Imagem do Jogo](![image](https://github.com/carlos676767/jogar-dados/assets/139733392/006a3b31-b62a-4f81-9934-e600417ede66)
-)
+![image](https://github.com/carlos676767/jogar-dados/assets/139733392/881073b2-af58-4ac4-a7ed-36db7398efc2)
+
 
 
 ## Melhorias Futuras
